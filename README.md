@@ -1,2 +1,2 @@
 # cancon
-What's it all about?
+What's it all aboot?
